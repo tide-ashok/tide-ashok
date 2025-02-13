@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm YOUR NAME 👋</h1>
+<p align="center">
+  🚀 Cloud Engineer | ☁️ AWS | 🏗️ Terraform | 🐍 Python | 💡 AI Enthusiast
+</p>
 
-<!--
-**tide-ashok/tide-ashok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔥 About Me
+- 💻 Passionate about **Cloud Computing & DevOps**  
+- 🌱 Currently learning **AI + AWS integration**  
+- 🚀 Automating deployments using **Terraform & GitHub Actions**  
+- 🎯 Goal: **Architect scalable cloud solutions**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ Tech Stack & Tools
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📈 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</div>
+
+---
+
+### 🚀 Featured Projects
+📌 **[AWS Sentiment Analysis](https://github.com/YOUR_GITHUB_USERNAME/aws-sentiment-analysis)**  
+*Automated deployment of AWS Lambda & API Gateway using Terraform & GitHub Actions.*
+
+📌 **[Project Name](https://github.com/YOUR_GITHUB_USERNAME/another-project)**  
+*Short description of another cool project you worked on.*
+
+---
+
+### 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+⭐ **Thanks for visiting! Feel free to connect with me.** 🚀  
