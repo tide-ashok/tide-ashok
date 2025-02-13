@@ -32,18 +32,15 @@
 ---
 
 ### 🚀 Featured Projects
-📌 **[AWS Sentiment Analysis](https://github.com/YOUR_GITHUB_USERNAME/aws-sentiment-analysis)**  
+📌 **[AWS Sentiment Analysis](https://github.com/tide-ashok/aws-sentiment-analysis)**  
 *Automated deployment of AWS Lambda & API Gateway using Terraform & GitHub Actions.*
-
-📌 **[Project Name](https://github.com/YOUR_GITHUB_USERNAME/another-project)**  
-*Short description of another cool project you worked on.*
 
 ---
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ka-sdet/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tide-ashok/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kum.ashok@outlook.com)
 
 ---
 
