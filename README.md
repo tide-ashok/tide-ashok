@@ -32,7 +32,7 @@
 ---
 
 ### 🚀 Featured Projects
-📌 **[AWS Sentiment Analysis](https://github.com/tide-ashok/aws-sentiment-analysis)**  
+📌 **[AWS Sentiment Analysis](https://github.com/qa-to-cloud/aws-sentiment-analysis)**  
 *Automated deployment of AWS Lambda & API Gateway using Terraform & GitHub Actions.*
 
 ---
